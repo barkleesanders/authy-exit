@@ -1,0 +1,14 @@
+/bin/
+/.private/
+/dist/
+*.pem
+*.key
+*.har
+*.db
+*.db-wal
+*.db-shm
+*.plist
+.env*
+__pycache__/
+.venv/
+coverage.out
